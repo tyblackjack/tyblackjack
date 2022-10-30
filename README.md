@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborating with other developers
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on web3 and ML
-- 📫 How to reach me ...
+- 📫 No details yet. lol
 
 <!---
 tyblackjack/tyblackjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
